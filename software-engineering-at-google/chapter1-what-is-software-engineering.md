@@ -9,7 +9,7 @@
 
 - If you are maintaining a project that is used by other engineers, the most important lesson about “it works” versus “it is maintainable” is what we’ve come to call Hyrum’s Law:
 _With a sufficient number of users of an API, it does not matter what you promise in the contract: all observable behaviors of your system will be depended on by somebody._
-- t is conceptually akin to entropy: discussions of change and maintenance over time must be aware of Hyrum’s Law just as discussions of efficiency or thermodynamics must be mindful of entropy.
+- It is conceptually akin to entropy: discussions of change and maintenance over time must be aware of Hyrum’s Law just as discussions of efficiency or thermodynamics must be mindful of entropy.
 - Hyrum’s Law represents the practical knowledge that—even with the best of intentions, the best engineers, and solid practices for code review—we cannot assume perfect adherence to published contracts or best practices. As an API owner, you will gain some flexibility and freedom by being clear about interface promises, but in practice, the complexity and difficulty of a given change also depends on how useful a user finds some observable behavior of your API.
 
 #### Example: Hash Ordering
