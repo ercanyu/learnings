@@ -1,7 +1,5 @@
 # Chapter 3. Creating the Big Picture
 
-## The Scenario: SockMatcher Needs a Plan
-
 ## What’s a Vision? What’s a Strategy?
 
 - there can be disadvantages when each team decides for itself:
@@ -80,7 +78,55 @@
 
 ## The Writing
 
+#### The Writing Loop
 
+- Initial ideas
+- What documents already exist?
+- What needs to change?
+- What’s great as it is?
+- What’s important?
+- What will Future You wish that Present You had done?
+
+#### Make Decisions
+
+- Trade-offs
+- Building consensus
+- Not deciding is a decision (just usually not a good one)
+- Show your work
+  - However you make the decision, document it, including the trade-offs you considered and how you got to the decision in the end.
+
+#### Get Aligned and Stay Aligned
+
+- Be reasonable
+- Nemawashi
+  - nemawashi, one of the pillars of the Toyota Production System. It means sharing information and laying the foundations so that by the time a decision is made, there’s already a consensus of opinion.
+  - I’ve always framed this as “Don’t call for a vote until you know you have the votes,” but I was delighted to learn that there’s a word for it.
+- Work on your story
+
+#### Create the Final Draft
+
+- Think about how you can make it easy to read, or share the highlights in another way.
+- Avoid dense walls of text. Use images, bullet points, and lots of white space.
+- One way is to use “personas”: describe some of the people affected by your vision or strategy—developers, end users, or whoever your stakeholders are—and describe their experience before and after the work is done.
+
+## The Launch
+
+#### Make It Official
+
+- Make sure your document looks real. Host it on an official-looking internal website. Close any remaining comments and remove any to-dos. Consider removing the ability to add comments, and leave a contact address for feedback instead.
+
+#### Keep It Fresh
+
+- The business direction or broader technical context may change and you’ll need to adapt. You may also just find out that the direction you chose was wrong. It happens.
+- If the vision or strategy is no longer solving your business problems, don’t be afraid to iterate on it.
+
+## To Recap
+
+- A technical vision describes a future state. A technical strategy describes a plan of action.
+- Have a plan up front for how to make the document become real. That usually means having an executive as a sponsor.
+- Be deliberate about agreeing on a document type and a scope for the work.
+- Writing the document will involve many iterations of talking to other people, refining your ideas, making decisions, writing, and realigning. It will take time.
+- Your vision or strategy is only as good as the story you can tell about it.
 
 
 
